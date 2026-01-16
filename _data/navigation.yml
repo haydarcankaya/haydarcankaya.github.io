@@ -9,16 +9,16 @@
 
 main:
    - title: "Research"
-    url: /research/
+     url: /research/
 
    - title: "Teaching"
-    url: /teaching/    
+     url: /teaching/    
 
    - title: "Schedule"
-    url: /portfolio/
+     url: /portfolio/
     
    - title: "CV"
-    url: /cv/
+     url: /cv/
         
   # - title: "matHroCK"
   #  url: /year-archive/
