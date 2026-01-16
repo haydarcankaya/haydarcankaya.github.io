@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,39 +18,79 @@ Education
 Work experience
 ======
 
-* Teaching/Research Assistant (from 2018 to the present)
+* Teaching/Research Assistant (2018 - present)
   * Istanbul Technical University
 
-* Mathematics Teacher (between 2012 and 2018)
+* Mathematics Teacher (2013 - 2017)
   * Some private schools/courses
   
-Skills
-======
+
+## Research interests
+
+* Homological algebra
+* Category theory
+* Model categories
+* Simplicial and crossed simplicial structures
+
+---
+
+## Publications and preprints
+
+**A model-categorical Dold–Kan correspondence for crossed simplicial groups**
+*In preparation*
+
+---
+
+## Talks
+
+* *Title of the talk*, Seminar / Workshop, Institution, Year
+* *Title of the talk*, Conference, Institution, Year
+
+---
+
+## Teaching experience
+
+**Teaching Assistant**
+Department of Mathematics, Istanbul Technical University
+*2018 – present*
+
+* Assisted in tutorials and problem sessions
+* Supported students in abstract algebra and related courses
+* Graded assignments and examinations
+
+---
+
+## Courses assisted
+
 * 
-* 
-  * 
-  * 
-  * 
+* Algebra II
 * 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Academic service
+
+* Department seminar organization 
+* Reviewing papers at zbMATH
+
+---
+
+## Skills
+
+* LaTeX
+* Category-theoretic methods
+* Model-categorical techniques
+
+---
+
+## Languages
+
+* Turkish (native)
+* English 
+
+---
+
+## References
+
+Available upon request.
+
