@@ -16,7 +16,11 @@ Alongside my theoretical work, I have recently been expanding my expertise in st
 
 Contact Information
 ======
-*Address:* Room B1-223, Department of Mathematics, Faculty of Science and Letters,
-ITU Ayazaga Campus, 34469, Maslak, Istanbul / TÜRKİYE
+**Address:** B1-223
+             Department of Mathematics
+             Faculty of Science and Letters
+             Istanbul Technical University 
+             Ayazaga Campus 
+             34469  Maslak, Istanbul / TÜRKİYE
 
-*e-mail:* kayah17@itu.edu.tr / hydrcnky@gmail.com
+**e-mail:** kayah17 [at] itu.edu.tr / hydrcnky [at] gmail.com
