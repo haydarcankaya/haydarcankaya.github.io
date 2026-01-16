@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematical Engineering, Istanbul Technical University, 2026 (expected)
+* M.S. in Mathematics, Mimar Sinan Fine Arts University, 2016
+* B.S. in Mathematics, Mimar Sinan Fine Arts University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching/Research Assistant (from 2018 to the present)
+  * Istanbul Technical University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mathematics Teacher (between 2012 and 2018)
+  * Some private schools/courses
   
 Skills
 ======
