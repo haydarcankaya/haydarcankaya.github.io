@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Kaya%2C+H+C"
-  googlescholar    : "https://scholar.google.com.tr/citations?hl=tr&user=7YKwO5YAAAAJ&view_op=list_works"
+  googlescholar    : # "https://scholar.google.com.tr/citations?hl=tr&user=7YKwO5YAAAAJ&view_op=list_works"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-1589-6538"
+  orcid            : # "https://orcid.org/0000-0002-1589-6538"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Haydar-Kaya"
+  researchgate     : # "https://www.researchgate.net/profile/Haydar-Kaya"
   scopus           : # URL
   zotero           : # URL
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "haydarcankaya.bsky.social" # Replace this with you Bluesky username
+  bluesky          : # "haydarcankaya.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
