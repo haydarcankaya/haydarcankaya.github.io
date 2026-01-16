@@ -19,9 +19,9 @@ Contact Information
 **Address:**  
 B1-223  
 Department of Mathematics  
-Faculty of Science and Letter  
+Faculty of Science and Letters  
 Istanbul Technical University  
-Ayazaga Campus  
+Ayazağa Campus  
 34469  Maslak, Istanbul / TÜRKİYE
 
 **e-mail:**  
