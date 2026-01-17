@@ -12,7 +12,7 @@ My approach to teaching emphasizes **conceptual clarity**, **mathematical rigor*
 development of intuition. I aim to present abstract ideas in a structured way while
 highlighting their motivations and connections to broader mathematical themes.
 
----
+
 
 ## Teaching experience
 
@@ -26,7 +26,7 @@ Department of Mathematics
 * Supported students in understanding the fundamental concepts in calculus  
 * Graded assignments and exams
 
----
+
 
 ## Courses assisted
 
@@ -36,7 +36,7 @@ Department of Mathematics
 * MAT 104E Mathematics II (common course)
 * MAT 185E Mathematics I (math dept course)
 
----
+
 
 ## Future teaching interests
 
@@ -47,7 +47,7 @@ I am interested in teaching courses related to:
 * Algebraic topology
 * Mathematical foundations of data science
 
----
+
 
 ## Teaching materials
 
