@@ -36,7 +36,7 @@ redirect_from:
 
 ## Publications and preprints
 ---
-*A model-categoric equivalence for crossed simplicial modules (joint with Atabey Kaygun)*
+* *A model-categoric equivalence for crossed simplicial modules (joint with Atabey Kaygun)*
 *In preparation*
 
 
