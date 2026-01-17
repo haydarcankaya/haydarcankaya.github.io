@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+---
 * Ph.D in Mathematical Engineering, Istanbul Technical University, 2026 (expected)
 * M.S. in Mathematics, Mimar Sinan Fine Arts University, 2016
 * B.S. in Mathematics, Mimar Sinan Fine Arts University, 2012
 
-Work experience
-======
+## Work experience
+---
 
 * Teaching/Research Assistant (2018 - present)
   * Istanbul Technical University
