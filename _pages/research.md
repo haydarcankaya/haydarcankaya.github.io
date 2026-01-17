@@ -12,21 +12,21 @@ author_profile: true
 - Category theory  
 - Model categories  
 
----
+
 
 ## Current work
 
 I am working on a model-categorical generalization of the Dold–Kan correspondence
 for crossed simplicial groups.
 
----
+
 
 ## Preprints & papers
 
 **A Model Categoric Equivalence for Crossed Simplicial Modules (joint with Atabey Kaygun)**  
 *in preparation*
 
----
+
 
 ## Research overview
 
@@ -38,7 +38,7 @@ A central theme of my work is the interaction between **simplicial methods** and
 **algebraic structures**, especially through equivalences that allow one to pass between
 homological and simplicial data in a controlled and conceptual way.
 
----
+
 
 ## Main research directions
 
@@ -53,7 +53,7 @@ additional symmetry leads to enriched algebraic and homotopical structures. Thes
 are developed not only at the categorical level but also within a **model-categorical
 framework**, allowing for homotopically meaningful comparisons.
 
----
+
 
 ### Model categories and homotopical algebra
 
@@ -69,7 +69,7 @@ I am interested in:
 These techniques play a key role in establishing robust versions of generalized Dold–Kan
 theorems.
 
----
+
 
 ### Simplicial and crossed simplicial structures
 
@@ -80,7 +80,7 @@ homological data and symmetry.
 This perspective connects naturally with areas such as cyclic and dihedral homology, and
 offers a conceptual framework for organizing related invariants.
 
----
+
 
 
 
