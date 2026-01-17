@@ -22,7 +22,8 @@ Work experience
   * Istanbul Technical University
 
 * Mathematics Teacher (2013 - 2017)
-  * Some private schools/courses
+  * Nazmi Arıkan Fen Bilimleri Dershanesi
+  * Eyfel Eğitim ve Danışmanlık 
   
 
 ## Research interests
@@ -36,15 +37,14 @@ Work experience
 
 ## Publications and preprints
 
-**A model-categorical Dold–Kan correspondence for crossed simplicial groups**
+*A model-categoric equivalence for crossed simplicial modules (joint with Atabey Kaygun)*
 *In preparation*
 
 ---
 
 ## Talks
 
-* *Title of the talk*, Seminar / Workshop, Institution, Year
-* *Title of the talk*, Conference, Institution, Year
+* *Littlewood-Richardson Rule for Schur Functions*, Ankara-Istanbul Algebraic Geometry & Number Theory Meetings , Bilkent University, 2015
 
 ---
 
@@ -62,9 +62,9 @@ Department of Mathematics, Istanbul Technical University
 
 ## Courses assisted
 
-* 
-* Algebra II
-* 
+* MAT 103/E
+* MAT 104/E
+* MAT 185E
 
 ---
 
