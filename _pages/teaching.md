@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ## Teaching philosophy
----
+
 My approach to teaching emphasizes **conceptual clarity**, **mathematical rigor**, and the
 development of intuition. I aim to present abstract ideas in a structured way while
 highlighting their motivations and connections to broader mathematical themes.
@@ -15,7 +15,7 @@ highlighting their motivations and connections to broader mathematical themes.
 
 
 ## Teaching experience
----
+
 ### Istanbul Technical University
 
 *Teaching Assistant*
@@ -29,7 +29,7 @@ at Department of Mathematics
 
 
 ## Courses assisted
----
+
 * MAT 103 Matematik I (ortak ders)
 * MAT 103E Mathematics I (common course)
 * MAT 104 Matematik II (ortak ders)
@@ -40,7 +40,7 @@ at Department of Mathematics
 
 
 ## Future teaching interests
----
+
 I am interested in teaching courses related to:
 
 * Homological algebra
