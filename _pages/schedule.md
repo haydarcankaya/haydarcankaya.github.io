@@ -5,7 +5,7 @@ permalink: /schedule/
 author_profile: true
 ---
 
-## Fall 2025
+## Spring 2026
 
 
 | Time              |        Monday        |        Tuesday       |      Wednesday       |       Thursday       |        Friday        |
@@ -13,10 +13,10 @@ author_profile: true
 | 08.30 – 09.30     |                      |                      |                      |                      |                      |
 | 09.30 – 10.30     |                      |                      |                      |                      |                      |
 | 10.30 – 11.30     |                      |                      |                      |                      |                      |
-| 11.30 – 12.30     |                      |        MAT 103E      |                      |         MAT 104E     |                      |
-| 12.30 – 13.30     |                      |        MAT 103E      |                      |         MAT 104E     |                      |
+| 11.30 – 12.30     |                      |                      |  MAT 104E (MED A15)  | MAT 104E (MED A16)   |                      |
+| 12.30 – 13.30     |                      |                      |  MAT 104E (MED A15)  | MAT 104E (MED A16)   |                      |
 | 13.30 – 14.30     |                      |                      |                      |                      |                      |
-| 14.30 – 15.30     |                      |                      |      Seminar         |                      |                      |
-| 15.30 – 16.30     |                      |                      |                      |                      |                      |
+| 14.30 – 15.30     |                      |                      |     Dept. Seminar    |                      |   MAT 103E (MED A32) |
+| 15.30 – 16.30     |                      |                      |                      |                      |   MAT 103E (MED A32) |
 | 16.30 – 17.30     |                      |                      |                      |                      |                      |
 
