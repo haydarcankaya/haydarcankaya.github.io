@@ -12,11 +12,13 @@ redirect_from:
 ## Education
 ---
 * Ph.D in Mathematical Engineering, Istanbul Technical University, 2026
-  Thesis entitled by *A Dold-Kan Equivalence for Crossed Simplicial Groups*
+  * Thesis: *A Dold-Kan Equivalence for Crossed Simplicial Groups* (supervised by **Atabey Kaygun**)
 * M.S. in Mathematics, Mimar Sinan Fine Arts University, 2016
-  Thesis entitled by *Littlewood-Richardson Kuralı ve Grassmanianların Kohomolojisi*
+  * Thesis: *Littlewood-Richardson Kuralı ve Grassmanianların Kohomolojisi* (supervised by **Özer Öztürk**)
 * B.S. in Mathematics, Mimar Sinan Fine Arts University, 2012
-  Undergraduate project on *Matrix Groups*
+  * Undergraduate project: *Matrix Groups* (supervised by **Mustafa Topkara**)
+ 
+    
 ## Work experience
 ---
 
