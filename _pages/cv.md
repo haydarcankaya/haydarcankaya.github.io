@@ -40,8 +40,8 @@ redirect_from:
 
 ## Publications and preprints
 ---
-* *A model-categoric equivalence for crossed simplicial modules (joint with Atabey Kaygun)*
-*In preparation*
+* A model categorical equivalence for crossed simplicial modules (joint with Atabey Kaygun), *Journal of Noncommutative Geometry, 2026*
+
 
 
 ## Talks
@@ -67,6 +67,8 @@ Department of Mathematics, Istanbul Technical University
 * MAT 103/E
 * MAT 104/E
 * MAT 185E
+* MAT 187E
+* MAT 287
 
 
 
