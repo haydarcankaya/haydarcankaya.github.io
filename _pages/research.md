@@ -23,15 +23,13 @@ for crossed simplicial groups.
 
 ## Preprints & papers
 
-**A Model Categoric Equivalence for Crossed Simplicial Modules (joint with Atabey Kaygun)**  
-*in preparation*
-
+A model categorical equivalence for crossed simplicial modules (with Atabey Kaygun), *Journal of Noncommutative Geometry, online first 2026*   
 
 
 ## Research overview
 
 My research lies at the intersection of **homological algebra**, **category theory**, and
-**homotopical algebra**, with a particular focus on categorical and model-categorical
+**homotopical algebra**, with a particular focus on categorical and model categorical
 generalizations of classical Dold-Kan correspondence.
 
 A central theme of my work is the interaction between **simplicial methods** and
@@ -49,8 +47,8 @@ groups and non-negatively graded chain complexes. My work investigates how this 
 extends beyond the classical setting.
 
 In particular, I study **Dold–Kan type equivalences for crossed simplicial groups**, where
-additional symmetry leads to enriched algebraic and homotopical structures. These extensions
-are developed not only at the categorical level but also within a **model-categorical
+additional group actions leads to enriched algebraic and homotopical structures. These extensions
+are developed not only at the categorical level but also within a **model categorical
 framework**, allowing for homotopically meaningful comparisons.
 
 
@@ -75,7 +73,7 @@ theorems.
 
 Simplicial objects provide a unifying language for homological and homotopical constructions.
 I study simplicial and crossed simplicial groups as algebraic models encoding both
-homological data and symmetry.
+homological data and group actions.
 
 This perspective connects naturally with areas such as cyclic and dihedral homology, and
 offers a conceptual framework for organizing related invariants.
