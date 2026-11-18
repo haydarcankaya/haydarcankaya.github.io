@@ -30,12 +30,13 @@ at Department of Mathematics
 
 ## Courses assisted
 
-* MAT 103 Matematik I (ortak ders)
+* MAT 103 Matematik I (common course in Turkish)
 * MAT 103E Mathematics I (common course)
-* MAT 104 Matematik II (ortak ders)
+* MAT 104 Matematik II (common course in Turkish)
 * MAT 104E Mathematics II (common course)
 * MAT 185E Mathematics I (math dept course)
 * MAT 187E Mathematics I (math dept course)
+* MAT 287 Matematik III (math dept course in Turkish)
 
 
 
@@ -45,7 +46,9 @@ I am interested in teaching courses related to:
 
 * Homological algebra
 * Category theory
+* Algebra
 * Algebraic topology
+* Algebraic geometry
 * Mathematical foundations of data science
 
 
