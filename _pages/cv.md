@@ -11,10 +11,12 @@ redirect_from:
 
 ## Education
 ---
-* Ph.D in Mathematical Engineering, Istanbul Technical University, 2026 (expected)
+* Ph.D in Mathematical Engineering, Istanbul Technical University, 2026
+  Thesis entitled by *A Dold-Kan Equivalence for Crossed Simplicial Groups*
 * M.S. in Mathematics, Mimar Sinan Fine Arts University, 2016
+  Thesis entitled by *Littlewood-Richardson Kuralı ve Grassmanianların Kohomolojisi*
 * B.S. in Mathematics, Mimar Sinan Fine Arts University, 2012
-
+  Undergraduate project on *Matrix Groups*
 ## Work experience
 ---
 
